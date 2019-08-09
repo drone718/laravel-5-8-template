@@ -7,22 +7,14 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## About Laravel
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
+
+## About This Project
 
 ## Composer Packages
 
-<h3>arrilot/laravel-widgets<h3>
-
-<p><strong>Installation</strong></p>
-<pre>composer require arrilot/laravel-widgets</pre>
-
-<p><strong>Documentation</strong><br/>
-https://github.com/arrilot/laravel-widgets/</p>
-<hr/>
+<h2>arrilot/laravel-widgets</h2>
 
 <h3>arrilot/laravel-widgets</h3>
 <p><strong>Installation</strong></p>
@@ -52,84 +44,155 @@ https://github.com/barryvdh/laravel-debugbar/</p>
 https://github.com/barryvdh/laravel-ide-helper/</p>
 <hr/>
 
+<h3>doctrine/dbal</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require doctrine/dbal</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/doctrine/dbal/</p>
+<hr/>
 
+<h3>fideloper/proxy</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require fideloper/proxy</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/fideloper/proxy/</p>
+<hr/>
 
+<h3>guzzlehttp/guzzle</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require guzzlehttp/guzzle</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/guzzlehttp/guzzle/</p>
+<hr/>
 
-<ul>
-    <li>arrilot/laravel-widgets
-        <ul>
-            <li>
-                <code>
-                    composer require arrilot/laravel-widgets
-                </code>
-            </li>
-            <li>
-                <a href="#" target="_blank">Documentation</a>
-            </li>
-        </ul>
-    </li>
-</ul>
-    
+<h3>jbzoo/utils</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require jbzoo/utils</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/jbzoo/utils/</p>
+<hr/>
 
+<h3>laracasts/flash</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laracasts/flash</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laracasts/flash/</p>
+<hr/>
 
+<h3>laravel-frontend-presets/black-dashboard</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laravel-frontend-presets/black-dashboard</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laravel-frontend-presets/black-dashboard/</p>
+<hr/>
 
+<h3>laravel/framework</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laravel/framework</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laravel/framework/</p>
+<hr/>
 
+<h3>laravel/horizon</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laravel/horizon</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laravel/horizon/</p>
+<hr/>
 
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+<h3>laravel/passport</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laravel/passport</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laravel/passport/</p>
+<hr/>
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+<h3>laravel/socialite</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laravel/socialite</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laravel/socialite/</p>
+<hr/>
 
-## Learning Laravel
+<h3>laravel/tinker</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laravel/tinker</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laravel/tinker/</p>
+<hr/>
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+<h3>laravelcollective/html</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require laravelcollective/html</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/laravelcollective/html/</p>
+<hr/>
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1400 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+<h3>predis/predis</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require predis/predis</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/predis/predis/</p>
+<hr/>
 
-## Laravel Sponsors
+<h3>spatie/laravel-fractal</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require spatie/laravel-fractal</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/spatie/laravel-fractal/</p>
+<hr/>
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+<h3>spatie/opening-hours</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require spatie/opening-hours</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/spatie/opening-hours/</p>
+<hr/>
 
-- **[Vehikl](https://vehikl.com/)**
-- **[Tighten Co.](https://tighten.co)**
-- **[Kirschbaum Development Group](https://kirschbaumdevelopment.com)**
-- **[64 Robots](https://64robots.com)**
-- **[Cubet Techno Labs](https://cubettech.com)**
-- **[Cyber-Duck](https://cyber-duck.co.uk)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Webdock, Fast VPS Hosting](https://www.webdock.io/en)**
-- **[DevSquad](https://devsquad.com)**
-- [UserInsights](https://userinsights.com)
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
-- [User10](https://user10.com)
-- [Soumettre.fr](https://soumettre.fr/)
-- [CodeBrisk](https://codebrisk.com)
-- [1Forge](https://1forge.com)
-- [TECPRESSO](https://tecpresso.co.jp/)
-- [Runtime Converter](http://runtimeconverter.com/)
-- [WebL'Agence](https://weblagence.com/)
-- [Invoice Ninja](https://www.invoiceninja.com)
-- [iMi digital](https://www.imi-digital.de/)
-- [Earthlink](https://www.earthlink.ro/)
-- [Steadfast Collective](https://steadfastcollective.com/)
-- [We Are The Robots Inc.](https://watr.mx/)
-- [Understand.io](https://www.understand.io/)
-- [Abdel Elrafa](https://abdelelrafa.com)
-- [Hyper Host](https://hyper.host)
+<h3>beyondcode/laravel-dump-server</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require beyondcode/laravel-dump-server</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/beyondcode/laravel-dump-server/</p>
+<hr/>
 
-## Contributing
+<h3>filp/whoops</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require filp/whoops</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/filp/whoops/</p>
+<hr/>
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+<h3>fzaninotto/faker</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require fzaninotto/faker</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/fzaninotto/faker/</p>
+<hr/>
 
-## Security Vulnerabilities
+<h3>mockery/mockery</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require mockery/mockery</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/mockery/mockery/</p>
+<hr/>
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
+<h3>nunomaduro/collision</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require nunomaduro/collision</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/nunomaduro/collision/</p>
+<hr/>
+
+<h3>phpunit/phpunit</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require phpunit/phpunit</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/phpunit/phpunit/</p>
+<hr/>
+
+## NPM Packages
 
 ## License
 
-The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
