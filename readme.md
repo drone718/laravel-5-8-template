@@ -15,6 +15,18 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 
 ## Composer Packages
 
+<h4>arrilot/laravel-widgets<h4>
+
+<p><strong>Installation</strong></p>
+<pre>composer require arrilot/laravel-widgets</pre>
+
+<p><strong>Documentation</strong></p>
+(https://github.com/arrilot/laravel-widgets/)
+
+<hr/>
+
+
+
 <ul>
     <li>arrilot/laravel-widgets
         <ul>
