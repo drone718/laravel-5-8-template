@@ -24,6 +24,13 @@ Laravel is a web application framework with expressive, elegant syntax. We belie
 https://github.com/arrilot/laravel-widgets/</p>
 <hr/>
 
+<h3>arrilot/laravel-widgets</h3>
+<p><strong>Installation</strong></p>
+<pre>composer require arrilot/laravel-widgets</pre>
+<p><strong>Documentation</strong><br/>
+https://github.com/arrilot/laravel-widgets/</p>
+<hr/>
+
 <h3>barryvdh/laravel-cors</h3>
 <p><strong>Installation</strong></p>
 <pre>composer require barryvdh/laravel-cors</pre>
